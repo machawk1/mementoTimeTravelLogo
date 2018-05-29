@@ -1,4 +1,4 @@
-# Memento Time Travel logo (unofficial)
+# Memento Time Travel service logo (unofficial)
 
 I needed a higher resolution version of the [Memento Time Travel service logo](http://mementoweb.org/static/css/images/timetravel_logo.png) for a presentation. One was not listed on the [MementoWeb logos page](http://mementoweb.org/tools/logo/), so I scaled up the available version and traced it in Adobe Photoshop CS6. There are probably better approaches to accomplish this like:
 
